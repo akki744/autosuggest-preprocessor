@@ -1,2 +1,2 @@
-nltk==3.5
+nltk==3.9
 symspellpy==6.5.2
